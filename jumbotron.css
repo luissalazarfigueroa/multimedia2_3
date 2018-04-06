@@ -1,0 +1,16 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+}
+a{color: azure;}
+a:hover{color:mediumturquoise;}
+
+.bg-otro {background-color: mediumturquoise;}
+.bg-otro:hover{background-color: azure;}
+button{color: azure;}
+button:hover{color:mediumturquoise;}
+h1,h2,h3,h4{color: cadetblue;font-variant-caps: all-small-caps;font-weight: 600; letter-spacing: 6pt}
+.jumbotron{background-image: url("http://triatletasenred.sport.es/wp-content/uploads/2013-mens-triathlon-swimming1.jpg")}
+.jumbotron p{color:white; font-weight: 600;text-shadow: 1px 1px black;}
